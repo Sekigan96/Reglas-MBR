@@ -10,4 +10,5 @@
 
 **Información adicional**
 Linux no necesita de estas reglas, ya que dichas reglas son para Windows. 
+
 Windows necesita una partición primaria y activa para arrancar mientras que Linux no.
