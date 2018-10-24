@@ -3,7 +3,9 @@
 **¿Qué reglas existen?**
 
 1- Solo 1 de las primarias puede ser extended.
+
 2- Dentro de las extended (si existiera) puede haber N lógicas.
+
 3- Una primaria debe ser activa. (obligatorio)
 
 **Información adicional**
